@@ -1,0 +1,4 @@
+rootProject.name = 'GenogramProcess'
+
+
+enableFeaturePreview('GRADLE_METADATA')
